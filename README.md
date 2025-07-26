@@ -24,6 +24,3 @@ Frontend:     React, Tailwind CSS
 Backend:      Node.js, Express, Spring Boot
 DevOps:       Docker, Kubernetes, Terraform, Ansible
 Cloud:        AWS, Akamai CDN/WAF
-```bash
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yaohuahu&show_icons=true&theme=tokyonight" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaohuahu&layout=compact&theme=tokyonight" height="150"/> </p>
