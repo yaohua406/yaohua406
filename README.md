@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yaohua 👋</h1>
 
 <p align="center">
-  🚀 Software Engineer | ☁️ Cloud Enthusiast | 🔐 Cybersecurity Learner | AI Engineer | Data Scientist Engineer
+  🚀 Software Engineer | ☁️ Cloud Enthusiast | 🔐 Cybersecurity Learner | 🤖 AI Engineer | 📊 Data Scientist Engineer
 </p>
 
 ---
