@@ -28,4 +28,4 @@ Cloud:        AWS, Akamai CDN/WAF
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yaohuahu&show_icons=true&theme=tokyonight" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaohuahu&layout=compact&theme=tokyonight" height="150"/> </p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/yaohuahu"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a> <a href="mailto:yaohuahu@email.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a> </p> 
+<p align="center"> <a href="https://www.linkedin.com/in/yaohua-hu/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a> <a href="mailto:yaohuahu@email.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a> </p> 
